@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">FirstAppAndroid!</string>
+    <string name="app_name">FirstAppAndroid</string>
+    <string name="nameSurname">Gerard Ribas Canals</string>
+    <string name="shortDescAboutMe">Hi world!! I\'m Gerard Ribas, I\'m an open source developer, acually I\'m working with developing some web applications, upgrading server side frameworks and in my free time, I\'m learning, at this moment, mobile development with Android. This is my first application. Welcome!!</string>
+    <string name="showMeTxtButton">ShowMe!</string>
+    <string name="hideTxtButton">Hide!</string>
+</resources>
+    
